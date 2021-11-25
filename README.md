@@ -20,14 +20,14 @@ All environment variables in the `.env.example` file must be defined.
 You might want to use [direnv](https://direnv.net/) to automatically source the `.env` file you created.
 
 Wikibase specifc env variables:
-KRAWLER_WB_USER="..."
-KRAWLER_WB_PASSWORD="..."
+`KRAWLER_WB_USER="..."`
+`KRAWLER_WB_PASSWORD="..."`
 
 Wikibase OAuth client:
-KRAWLER_WB_CONSUMER_KEY="..."
-KRAWLER_WB_CONSUMER_SECRET="..."
-KRAWLER_WB_ACCESS_TOKEN="..."
-KRAWLER_WB_ACCESS_SECRET="..."
+`KRAWLER_WB_CONSUMER_KEY="..."`
+`KRAWLER_WB_CONSUMER_SECRET="..."`
+`KRAWLER_WB_ACCESS_TOKEN="..."`
+`KRAWLER_WB_ACCESS_SECRET="..."`
 (ask your wikibase admin if you are unsure how to get this)
 
 Wikibase Reconciler Prop ID
