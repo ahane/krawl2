@@ -47,7 +47,7 @@ This property has to be created in wikibase and then set here.
 
 # Github specific env variables:
 
-KRAWLER_GITHUB_KEY="..."
+`KRAWLER_GITHUB_KEY="..."`
 
 (get one [here](https://github.com/settings/tokens)
 
